@@ -1,0 +1,4 @@
+#text {color: rgb(255,46,136)}
+ul {display: inline-block;}
+li {list-style: none;}
+li a { text-decoration: none; color:white; transition: all 0.5s;}
